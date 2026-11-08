@@ -1,0 +1,22 @@
+{
+  "schema": "sipac-private-record-v1",
+  "documentNumber": "3287340885377687",
+  "generatedAt": "2026-11-08T04:29:20.023Z",
+  "timeZone": "America/Mexico_City",
+  "consultationUrl": "https://dguba-fiscaliamor-gob-mx-sicive-consult.github.io/verificar.php-idv-L7XU7D--/",
+  "record": {
+    "brand": "Ford",
+    "model": "Grand Coran",
+    "year": "1993",
+    "color": "Blanco",
+    "engine": "H56D674311FG",
+    "vin": "NV6793FRD67540987",
+    "plates": "Permiso",
+    "invoice": "6767",
+    "holder": "Eduardo Morales M",
+    "issuedOn": "2026-11-07",
+    "validUntil": "2026-11-27",
+    "notes": "",
+    "status": "Borrador"
+  }
+}
